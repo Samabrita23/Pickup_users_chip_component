@@ -12,8 +12,8 @@ A chip component to add users designed using Typescript and React.
 ## Installation 
 
 1. Clone the repository
-  ```bash
-git clone https://github.com/Samabrita23/Pickup_users_chip_component.git
+    ```bash
+     git clone https://github.com/Samabrita23/Pickup_users_chip_component.git
 
 2. Change into the project directory
    ```bash
@@ -21,10 +21,10 @@ git clone https://github.com/Samabrita23/Pickup_users_chip_component.git
 
 3. Install dependencies
     ```bash
-npm install
+   npm install
 
 4. Run the app
     ```bash
-npm start
+    npm start
 
 
